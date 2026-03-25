@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact)](https://github.com/anuraghazara/github-readme-stats)
+
 <!--
 **mnurkholish/mnurkholish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
